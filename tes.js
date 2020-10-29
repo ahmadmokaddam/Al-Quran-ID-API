@@ -2,7 +2,7 @@ var data = [
 	{
 	  "arti" : "Pembukaan",
 	  "asma" : "الفاتحة",
-	  "audio" : "http://ia802609.us.archive.org/13/items/quraninindonesia/001AlFaatihah.mp3",
+	  "audio" : "https://ia801604.us.archive.org/17/items/jam3_58/001.mp3",
 	  "ayat" : 7,
 	  "keterangan" : "Surat <i>Al Faatihah</i> (Pembukaan) yang diturunkan di Mekah dan terdiri dari 7 ayat adalah surat yang ...",
 	  "nama" : "Al Fatihah",
